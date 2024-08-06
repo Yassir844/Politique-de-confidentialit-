@@ -12,6 +12,6 @@
     <h2>Data Sharing</h2>
     <p>We do not share any data with third parties.</p>
     <h2>Contact</h2>
-    <p>For any questions, please contact us at <a href="YassirIvvolex@gmail.com">youremail@example.com</a>.</p>
+    <p>For any questions, please contact us at <a href="YassirIvvolex@gmail.com">YassirIvvolex@gmail.com</a>.</p>
 </body>
 </html>
